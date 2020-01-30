@@ -1,0 +1,26 @@
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.exe.config
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.exe
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.pdb
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csprojAssemblyReference.cache
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.frmCadastroCliente.resources
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.Properties.Resources.resources
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.GenerateResource.cache
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.exe
+C:\Users\Mauricy\Documents\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.pdb
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.exe.config
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.exe
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\CrudApp.pdb
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csprojAssemblyReference.cache
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.frmCadastroCliente.resources
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.Properties.Resources.resources
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.GenerateResource.cache
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.exe
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.pdb
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\MySql.Data.dll
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\bin\Debug\MySql.Data.xml
+C:\Users\Leonardo Sousa\Documents\Projetos\Projetos C#\CrudApp\CrudApp\obj\Debug\CrudApp.csproj.CopyComplete
