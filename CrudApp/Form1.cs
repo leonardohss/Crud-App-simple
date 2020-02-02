@@ -27,7 +27,7 @@ namespace CrudApp
             tsbSalvar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbExcluir.Enabled = false;
-            tstId.Enabled = true;
+            tstBusca.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNome.Enabled = false;
             txtEndereco.Enabled = false;
@@ -44,7 +44,7 @@ namespace CrudApp
             tsbSalvar.Enabled = true;
             tsbCancelar.Enabled = true;
             tsbExcluir.Enabled = false;
-            tstId.Enabled = false;
+            tstBusca.Enabled = false;
             tsbBuscar.Enabled = false;
             txtNome.Enabled = true;
             txtEndereco.Enabled = true;
@@ -118,7 +118,7 @@ namespace CrudApp
             tsbSalvar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbExcluir.Enabled = false;
-            tstId.Enabled = true;
+            tstBusca.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNome.Enabled = false;
             txtEndereco.Enabled = false;
@@ -143,7 +143,7 @@ namespace CrudApp
             tsbSalvar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbExcluir.Enabled = false;
-            tstId.Enabled = true;
+            tstBusca.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNome.Enabled = false;
             txtEndereco.Enabled = false;
@@ -190,7 +190,7 @@ namespace CrudApp
             tsbSalvar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbExcluir.Enabled = false;
-            tstId.Enabled = true;
+            tstBusca.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNome.Enabled = false;
             txtEndereco.Enabled = false;
@@ -211,7 +211,7 @@ namespace CrudApp
 
         private void TsbBuscar_Click(object sender, EventArgs e)
         {
-            string sql = "SELECT * FROM CLIENTE WHERE ID=" + txtId.Text);
+            string sql = "SELECT * FROM CLIENTE WHERE ID='" + tstBusca.Text + "'";
 
             MySqlConnection con = new MySqlConnection(connectionString);
             MySqlCommand cmd = new MySqlCommand(sql, con);
@@ -228,7 +228,7 @@ namespace CrudApp
                     tsbSalvar.Enabled = true;
                     tsbCancelar.Enabled = true;
                     tsbExcluir.Enabled = true;
-                    tstId.Enabled = false;
+                    tstBusca.Enabled = false;
                     tsbBuscar.Enabled = false;
                     txtNome.Enabled = true;
                     txtEndereco.Enabled = true;

@@ -44,7 +44,7 @@
             this.tsbExcluir = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.tsbBuscaPorId = new System.Windows.Forms.ToolStripLabel();
-            this.tstId = new System.Windows.Forms.ToolStripTextBox();
+            this.tstBusca = new System.Windows.Forms.ToolStripTextBox();
             this.tsbBuscar = new System.Windows.Forms.ToolStripButton();
             this.txtId = new System.Windows.Forms.TextBox();
             this.txtNome = new System.Windows.Forms.TextBox();
@@ -138,7 +138,7 @@
             this.tsbExcluir,
             this.toolStripSeparator1,
             this.tsbBuscaPorId,
-            this.tstId,
+            this.tstBusca,
             this.tsbBuscar});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
@@ -197,11 +197,11 @@
             this.tsbBuscaPorId.Size = new System.Drawing.Size(79, 22);
             this.tsbBuscaPorId.Text = "Buscar por Id:";
             // 
-            // tstId
+            // tstBusca
             // 
-            this.tstId.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.tstId.Name = "tstId";
-            this.tstId.Size = new System.Drawing.Size(100, 25);
+            this.tstBusca.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.tstBusca.Name = "tstBusca";
+            this.tstBusca.Size = new System.Drawing.Size(100, 25);
             // 
             // tsbBuscar
             // 
@@ -333,7 +333,7 @@
         private System.Windows.Forms.ToolStripButton tsbCancelar;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.ToolStripLabel tsbBuscaPorId;
-        private System.Windows.Forms.ToolStripTextBox tstId;
+        private System.Windows.Forms.ToolStripTextBox tstBusca;
         private System.Windows.Forms.ToolStripButton tsbBuscar;
         private System.Windows.Forms.TextBox txtId;
         private System.Windows.Forms.TextBox txtNome;
